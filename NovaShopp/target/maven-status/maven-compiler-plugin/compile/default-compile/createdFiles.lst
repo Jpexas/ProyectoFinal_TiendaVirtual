@@ -1,0 +1,6 @@
+com\novashop\views\AdminView.class
+com\novashop\NovaShopp.class
+com\novashop\views\LoginView.class
+com\novashop\controllers\ProductController$Product.class
+com\novashop\controllers\ProductController.class
+com\novashop\views\CatalogView.class
